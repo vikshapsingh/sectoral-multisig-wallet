@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.log
+blockchain/artifacts/
+blockchain/cache/
+blockchain/deployments/
